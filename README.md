@@ -27,7 +27,7 @@ Topics on “Tooling to measure your website performance” as below…
 5. [Google workbox](https://developers.google.com/web/tools/workbox/)
 4. Server side rendering & code splitting.
 5. Server configurations. - compressions - gzip | deflate | brotli, caching etc.
-6. Navigation Timing API
+6. [Assessing Loading Performance in Real Life with Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 7. [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 7. [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 7. Walkthrough - Front-end performance checklist
