@@ -8,12 +8,20 @@ https://developers.google.com/web/fundamentals/performance/why-performance-matte
 Topics on “Tooling to measure your website performance” as below…
  
 1. Chrome Developer Tools overview
-    - Audit | [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+    - Audit
     - Performance
-    - [Page Speed Insight](https://developers.google.com/speed/docs/insights/about)
     - Profiles Panel - Memory/Heap Profiling
     - Framework tools - React, Angular
-2. Performance measurement tools - sitespeed, webpagetest etc.
+
+2. What are the different performance tools? 
+  - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+  - [WebPageTest](https://www.webpagetest.org/)
+  - [TestMySite](https://testmysite.thinkwithgoogle.com/) 
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+  - [peed Scorecard](https://www.thinkwithgoogle.com/feature/mobile/)
+  - [Impact Calculator](https://www.thinkwithgoogle.com/feature/mobile/)
+  - [Chrome Developer Tools(CDT)](https://developers.google.com/web/tools/chrome-devtools/)
+  
 3. [Front-end performance with HTTP/2](https://hpbn.co/http2/)
 4. [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 5. [Google workbox](https://developers.google.com/web/tools/workbox/)
