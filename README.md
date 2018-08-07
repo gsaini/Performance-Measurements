@@ -19,3 +19,4 @@ Topics on “Tooling to measure your website performance” as below…
 6. Navigation Timing API
 7. Walkthrough - Front-end performance checklist
 8. Community Resources - Blogs, GitHub, Twitter, Stack overflow, Videos, Books
+9. Integartion of LightHouse module in your CI or May be in Precommit.
