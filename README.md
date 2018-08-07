@@ -1,6 +1,9 @@
 # Performance-Measurements
 Tooling to measure website performance
 
+## Why Performance Matters 
+https://developers.google.com/web/fundamentals/performance/why-performance-matters/
+
 ## Topics -
 Topics on “Tooling to measure your website performance” as below…
  
@@ -17,6 +20,8 @@ Topics on “Tooling to measure your website performance” as below…
 4. Server side rendering & code splitting.
 5. Server configurations. - compressions - gzip | deflate | brotli, caching etc.
 6. Navigation Timing API
+7. [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+7. [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 7. Walkthrough - Front-end performance checklist
 8. Community Resources - Blogs, GitHub, Twitter, Stack overflow, Videos, Books
 9. Integartion of LightHouse module in your CI or May be in Precommit.
