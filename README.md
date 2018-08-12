@@ -37,7 +37,7 @@ Topics on “Tooling to measure your website performance” as below…
 9. Integartion of LightHouse module in your CI or May be in Precommit.
 10. Web Worker
 
-## Demo - nginx configurations (https://github.com/gsaini/nginx-performance-tooling)
+## Demo - nginx configurations [nginx-performance-tooling](https://github.com/gsaini/nginx-performance-tooling)
  - content compression gzip, brotli etc.
  - http2
  
