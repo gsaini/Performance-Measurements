@@ -23,6 +23,8 @@ Topics on “Tooling to measure your website performance” as below…
    - [Chrome Developer Tools(CDT)](https://developers.google.com/web/tools/chrome-devtools/)
   
 3. [Front-end performance with HTTP/2](https://hpbn.co/http2/)
+   - [HTTP/2 Frequently Asked Questions](https://http2.github.io/faq/)
+
 4. [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 5. [Google workbox](https://developers.google.com/web/tools/workbox/)
 4. Server side rendering & code splitting.
