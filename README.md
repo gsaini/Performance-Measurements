@@ -40,6 +40,7 @@ Topics on “Tooling to measure your website performance” as below…
 10. Web Worker
 
 ## Demo - nginx configurations [nginx-performance-tooling](https://github.com/gsaini/nginx-performance-tooling)
- - content compression gzip, brotli etc.
+ - Content Compression gzip, brotli etc.
  - http2
+ - Content Caching
  
