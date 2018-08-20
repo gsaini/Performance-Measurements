@@ -11,6 +11,7 @@ Topics on “Tooling to measure your website performance” as below…
     - Audit
     - Performance
     - Profiles Panel - Memory/Heap Profiling
+    - [Find unused CSS and JS with the Coverage feature](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) and attempt to optimize.
     - Framework tools - React, Angular
 
 2. What are the different performance tools? 
@@ -37,7 +38,7 @@ Topics on “Tooling to measure your website performance” as below…
 7. [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 7. [Walkthrough - Front-end performance checklist](content/front-end-performance-checklist-2018.pdf)
 8. Community Resources - Blogs, GitHub, Twitter, Stack overflow, Videos, Books
-9. Integartion of LightHouse module in your CI or May be in Precommit.
+9. [Lighthouse CI](https://github.com/ebidel/lighthouse-ci)
 10. Web Worker
 
 ## Demo - nginx configurations [nginx-performance-tooling](https://github.com/gsaini/nginx-performance-tooling)
