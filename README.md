@@ -36,6 +36,15 @@ Topics on “Tooling to measure your website performance” as below…
 6. [Assessing Loading Performance in Real Life with Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 7. [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 7. [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
+8. Offscreen Images - [IntersectionObserver](https://developers.google.com/web/updates/2016/04/intersectionobserver)
+8. Performance
+    - Critical Request Chains
+    - Defer unused CSS
+    - Enable Text Compression
+
+8. Best Practices 
+    - Opens External Anchors Using rel="noopener"
+
 7. [Walkthrough - Front-end performance checklist](content/front-end-performance-checklist-2018.pdf)
 8. Community Resources - Blogs, GitHub, Twitter, Stack overflow, Videos, Books
 9. [Lighthouse CI](https://github.com/ebidel/lighthouse-ci)
