@@ -1,4 +1,5 @@
-﻿
+# 20 Tips for Optimizing CSS Performance
+
 In this article, we look at 20 ways to optimise CSS so that it’s faster-loading, easier to work with and more efficient.
 
 Here, we’ll concentrate on CSS. Admittedly, CSS is rarely the worst culprit and a typical site uses 40KB spread over five stylesheets. That said, there are still optimisations you can make, and ways to change how we use CSS that will boost site performance.
@@ -264,3 +265,6 @@ The most important tip: understand your stylesheets!
 Adding vast quantities of CSS from StackOverflow or BootStrap may produce quick results, but it will also bloat your codebase with unused junk. Further customization becomes frustratingly difficult, and the application will never be efficient.
 
 CSS is easy to learn but difficult to master. You can’t avoid the technology if you want to create effective client-side code. A little knowledge of CSS basics can revolutionise your workflow, enhance your apps, and noticeably improve performance.
+
+# Reference - 
+https://www.sitepoint.com/optimizing-css-performance/
