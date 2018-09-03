@@ -30,6 +30,10 @@ Topics on “Tooling to measure your website performance” as below…
 4. [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers/)
 5. [Google workbox](https://developers.google.com/web/tools/workbox/)
 4. Server side rendering & code splitting.
+5. Browserslist Integration
+   - babel 7
+   - autoprefixer, stylelint, eslint-plugin-compat and many others.
+   
 5. Server configurations. 
    - [Content compressions - gzip | deflate | brotli](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer)
    - [Content Caching](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
