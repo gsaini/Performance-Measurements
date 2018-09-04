@@ -10,6 +10,7 @@ Topics on “Tooling to measure your website performance” as below…
 1. Chrome Developer Tools overview
     - Audit
     - Performance
+    - Network - Resource Priorties for Critical Rendring Path
     - Profiles Panel - Memory/Heap Profiling
     - [Find unused CSS and JS with the Coverage feature](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) and attempt to optimize.
     - Framework tools - React, Angular
@@ -45,6 +46,7 @@ Topics on “Tooling to measure your website performance” as below…
     - Critical Request Chains
     - Defer unused CSS
     - Enable Text Compression
+    - Resource Hints and Client Hints
 
 8. Best Practices 
     - Opens External Anchors Using rel="noopener"
